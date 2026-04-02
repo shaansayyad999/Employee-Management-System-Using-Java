@@ -1,0 +1,17 @@
+ID: E001
+Name: Shaan Sayyad
+Department: Engineering
+Position: Software Developer
+Salary: 85000
+
+ID: E002
+Name: Naresh Late
+Department: Marketing
+Position: Manager
+Salary: 95000
+
+ID: E003
+Name: Karan Gaikwad
+Department: HR
+Position: Specialist
+Salary: 75000 
