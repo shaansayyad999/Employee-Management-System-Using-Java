@@ -155,4 +155,4 @@ This project successfully demonstrates the practical use of Java collections, fi
 ## 👨‍💻 Author
 
 Shaan Nazim Sayyad -
-Developer Arena Intenship
+Developer Arena Internship
