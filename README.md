@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is a console-based Employee Management System developed using Java. It demonstrates the use of collections (ArrayList and HashMap) along with file handling and exception handling. The system allows users to manage employee records efficiently with features like adding, updating, deleting, searching, and generating reports.
-
+This project is a console-based Employee Management System developed using Java. It demonstrates the use of collections (ArrayList and HashMap) along with file handling and exception handling. The system allows users to manage employee records efficiently with features like adding, updating, deleting, searching, and generating report.
 ---
 
 ## ⚙️ Features Implemented
